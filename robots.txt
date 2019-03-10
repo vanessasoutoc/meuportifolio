@@ -1,2 +1,12 @@
 User-agent: *
+Disallow: /vendor
+Disallow: /css
+Disallow: /scss
+Disallow: /js
+Disallow: /img
+Disallow: README.md
+Disallow: LICENSE
+Disallow: gulpfile.js
+Disallow: package-lock.json
+Disallow: package.json
 Allow: index.html
